@@ -23,6 +23,9 @@ change?
 	giving an option if not wanting to work on the same part 
 
 6. How would branches help?
+	working on a branch doesn't affect its parent
+	changes made get recorded by commits in each branch 
+	branchs can be merged later to incorporate all changes
 
 7. How do the diagrams help you visualize the branch structure?
 
