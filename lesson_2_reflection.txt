@@ -7,7 +7,10 @@ How is the staging area different from the working directory and the repository?
 	staging area only contains files I want to include in a commit
 	repository contains all commits of all files being tracked
 
-What value do you think it offers?
+What value do you think the staging area offers?
+	the staging area works as a buffer. 
+	it helps make sure that only files to be included in commit is submitted
+	it also makes it possible to change one's mind before creating a commit
 
 How can you use the staging area to make sure you have one commit per logical
 change?
