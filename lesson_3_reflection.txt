@@ -21,7 +21,7 @@ automatically stay up-to-date with your remote repository?
 4. What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    
+    It enables me to download all the latest changes from the remote while not merging them with the changes I created locally
 
 5. How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
