@@ -40,3 +40,6 @@ change?
 	the history of each branch is still preserved
 
 10. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	automatic merging is pretty powerful and convenient
+	merging manually is only needed when there are conflicts
+	it can clarify unknowns factors and make collaboration smooth
