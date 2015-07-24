@@ -23,12 +23,14 @@ stored locally?
 
     It enables me to download all the latest changes from the remote while not merging them with the changes I created locally
 
-5. How would you collaborate without using Git or GitHub?  What would be easier,
-and what would be harder?
+5. How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
 
- 
+ 	Collaborating without using Git or GitHub may seem to be more straighforward but have more risks and might become confusing
+ 	if more than one people work on the same project 
+ 	and many changes are introduced all the time
+ 	Using Git and GitHub requires one be diligent with creating one commit for every logical change and keep local and remote in sync
+ 	communication between collaborators is also key
 
-6. When would you want to make changes in a separate branch rather than directly in
-master?  What benefits does each approach have?
-
+6. When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
+    Using a branch to make changes will keep others updated of my changes and have a chance to provide me feedback. 
    
