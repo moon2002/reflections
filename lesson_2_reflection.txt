@@ -36,5 +36,7 @@ change?
 	all commits in each branch can still be accessed
 
 9. Why do we represent the merging in the diagram the way we do?
+	it shows the parents of the new commit after the merge
+	the history of each branch is still preserved
 
 10. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
