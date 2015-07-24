@@ -32,6 +32,8 @@ change?
 	clear showing parent and child, reachability and inheritance
 
 8. What is the result of merging two branches together? 
+	changes made in each branch get merged into one commit
+	all commits in each branch can still be accessed
 
 9. Why do we represent the merging in the diagram the way we do?
 
