@@ -18,6 +18,9 @@ change?
 	One may wait to commit later and continue to work on other changes
 
 5. What are some situations when branches would be helpful in keeping your history organized? 
+	working on sth experimental, not ready to be incorporated in the master yet
+	several people working on different features simultaneously
+	giving an option if not wanting to work on the same part 
 
 6. How would branches help?
 
