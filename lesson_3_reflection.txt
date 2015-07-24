@@ -6,12 +6,17 @@
 automatically stay up-to-date with your remote repository?
 
     I might not want to include changes in the remote repository
-    For example, the changes in one branch is for testing and review only
+    For example, the changes in one branch is for review and sharing only
+    I don't have permission to modify
 
-3. Describe the differences between forks, clones, and branches.  When would you
-use one instead of another?
+3. Describe the differences between forks, clones, and branches.  When would you use one instead of another?
 
-    
+    Fork: clone a repository by someone else on GitHub, 
+    my changes only affect my fork and won't affect the original one
+    Clone: copy a repository from a remote location, "push" will affect the original repository
+    Branch: when I don't need the repository with all its history
+    creating a branch will enable me to work from the current commit
+    future changes might affect the parent of my branch  
 
 4. What is the benefit of having a copy of the last known state of the remote
 stored locally?
