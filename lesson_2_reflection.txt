@@ -28,6 +28,8 @@ change?
 	branchs can be merged later to incorporate all changes
 
 7. How do the diagrams help you visualize the branch structure?
+	the branch name is over the latest commit
+	clear showing parent and child, reachability and inheritance
 
 8. What is the result of merging two branches together? 
 
